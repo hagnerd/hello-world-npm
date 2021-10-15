@@ -1,0 +1,7 @@
+{
+  "name": "@hagnerd/hello-world-npm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Matt Hagner <matthagner@gmail.com>",
+  "license": "MIT"
+}
